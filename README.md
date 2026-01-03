@@ -77,6 +77,9 @@ Coverage reports are generated in the `coverage/` directory. Open `coverage/lcov
 -   Integration tests verify interactions between the product list, search input, filters, and favorite functionality.
 -   Debounced search behavior is tested using Vitest's fake timers for reliable results.
 
+<img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/85617a91-176a-4f59-991a-d62b1f6a24f1" />
+
+
 ## Additional Information
 
 -   **State Management**: Redux Toolkit is used for managing global state (products and favorites).
